@@ -2,7 +2,7 @@
 <div align="center" width="50">
  <img src="https://github.com/somesh526/somesh526/blob/main/welcome%20gif.gif" alt="Welcome!" width="300"/>
  </div>
-
+<br>
 Hi, I'm [Somesh Jampa!](https://somesh526.github.io/someshportfolio.github.io/), a passionate developer having experience in FrontEnd Web Development and want to become a Full Stack Developer.
 
   <img align="right" alt="GIF" src="https://github.com/somesh526/somesh526/blob/main/code.gif?raw=true" width="500" height="320" />
