@@ -11,7 +11,7 @@ Hi, I'm [Somesh Jampa!](https://somesh526.github.io/someshportfolio.github.io/),
 - 👨🏽‍💻 I’m currently working on something cool :wink:
 - ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`
 - 🌱 Learning all about **Open Source**
-- 💬 Ping me about **design**, **frontend development**
+- 💬 Ping me about **frontend development**
 - 📫 Reach me: [@someshjampa](https://www.linkedin.com/in/someshjampa/)
 - ⚡️ Fun fact: I'm a huge fan of Naruto
 
@@ -26,5 +26,5 @@ Hi, I'm [Somesh Jampa!](https://somesh526.github.io/someshportfolio.github.io/),
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 📈 My GitHub Stats
-
+<br>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=somesh526&show_icons=true&theme=radical" alt="somesh" />
