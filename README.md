@@ -1,6 +1,7 @@
 <p align="center"> Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" />
- 
- 
+<div align="center" width="50">
+ <img src="https://github.com/somesh526/somesh526/blob/main/welcome%20gif.gif" alt="Welcome!" width="300"/>
+ </div>
 
 Hi, I'm [Somesh Jampa!](https://somesh526.github.io/someshportfolio.github.io/), a passionate developer having experience in FrontEnd Web Development and want to become a Full Stack Developer.
 
