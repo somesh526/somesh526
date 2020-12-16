@@ -2,7 +2,7 @@
  
  
 
-Hi, I'm [Somesh Jampa!](https://somesh526.github.io/someshportfolio.github.io/), a passionate developer having an experience in FrontEnd Web Development and want to become a Full Stack Developer.
+Hi, I'm [Somesh Jampa!](https://somesh526.github.io/someshportfolio.github.io/), a passionate developer having experience in FrontEnd Web Development and want to become a Full Stack Developer.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
