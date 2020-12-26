@@ -17,15 +17,26 @@ Hi, I'm [Somesh Jampa!](https://somesh526.github.io/), a passionate developer ha
 - 📫 Reach me: [@someshjampa](https://www.linkedin.com/in/someshjampa/)
 - ⚡️ Fun fact: I'm a huge fan of Naruto
 
-**Languages and Tools:**  
-<code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg"></code>
-<code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="25" src="https://devicon.dev/devicon.git/icons/php/php-original.svg"></code>
-<code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg"></code>
-<code><img height="25" src="https://devicon.dev/devicon.git/icons/java/java-original.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+**Languages and Tools:** 
+<p>
+<img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style-the-badge" alt="html"  />
+  
+<img src="https://img.shields.io/badge/CSS-ffcccc?logo=css3&logoColor=white&style-the-badge" alt="css"  />
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style-the-badge" alt="js"  />
+
+<img src="https://img.shields.io/badge/BootStrap-003b5f?logo=bootstrap&logoColor=white&style-the-badge" alt="boot"  />
+
+<img src="https://img.shields.io/badge/Java-E34F26?logo=java&logoColor=white&style-the-badge" alt="Java"/>
+
+<img src="https://img.shields.io/badge/php-8993be?logo=php&logoColor=white&style-the-badge" alt="php"/>
+
+<img src="https://img.shields.io/badge/Mysql-303030?logo=mysql&logoColor=white&style-the-badge" alt="Mysql"/>
+
+<img src="https://img.shields.io/badge/Canva-B3FFFF?logo=canva&logoColor=white&style-the-badge" alt="canva"/>
+
+<img src="https://img.shields.io/badge/Git-DC3E15?logo=git&logoColor=white&style-the-badge" alt="git"/>
+</p>
 
 📈 My GitHub Stats
 <br />
