@@ -6,7 +6,7 @@
 
 Hi, I'm [Somesh Jampa!](https://somesh526.github.io/), a passionate developer having experience in FrontEnd Web Development and want to become a Full Stack Developer.
 
-<img align="right" alt="GIF" src="https://github.com/somesh526/somesh526/blob/main/anime.gif?raw=true" width="400" height="320" />
+<img align="right" alt="GIF" src="https://github.com/somesh526/somesh526/blob/main/animee.gif?raw=true" width="400" height="320" />
 
 **BIO**
 
