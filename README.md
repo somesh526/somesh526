@@ -5,7 +5,8 @@
 <br />
 
 Hi, I'm [Somesh Jampa!](https://somesh526.github.io/), a passionate developer having experience in FrontEnd Web Development and want to become a Full Stack Developer.
- <img align="right" alt="GIF" src="https://github.com/somesh526/somesh526/blob/main/animation.gif?raw=true" width="400" height="320" />
+
+<img align="right" alt="GIF" src="https://github.com/somesh526/somesh526/blob/main/animation.gif?raw=true" width="400" height="320" />
   
 **BIO**
 
@@ -15,6 +16,7 @@ Hi, I'm [Somesh Jampa!](https://somesh526.github.io/), a passionate developer ha
 - 💬 Ping me about **frontend development**
 - 📫 Reach me: [@someshjampa](https://www.linkedin.com/in/someshjampa/)
 - ⚡️ Fun fact: I'm a huge fan of Naruto
+- ![Profile View](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=somesh526&repo=github-visitors-badge&theme=gotham)
 
 **Languages and Tools:** 
 <p>
