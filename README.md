@@ -15,7 +15,7 @@ Hi, I'm [Somesh Jampa!](https://somesh526.github.io/), a passionate developer ha
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **frontend development**
 - 📫 Reach me: [@someshjampa](https://www.linkedin.com/in/someshjampa/)
-- ⚡️ Fun fact: I'm a huge fan of Naruto
+- ⚡️ Interests: Anime
 
 **Languages and Tools:** 
 <p>
