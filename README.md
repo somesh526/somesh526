@@ -44,3 +44,4 @@ Hi, I'm Somesh Jampa, a passionate developer having experience in FrontEnd Web D
 ![Profile View](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=somesh526&repo=github-visitors-badge&theme=gotham)
  <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=somesh526&show_icons=true&theme=gotham&bg_color=0,000000,130F40" alt="somesh" />
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=somesh526&theme=gotham" alt="Github Streak Stats">
+ <img src="https://activity-graph.herokuapp.com/graph?username=somesh526&theme=react-dark&color=45EBA5&line=C0C0C0&point=0">
