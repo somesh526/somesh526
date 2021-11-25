@@ -14,7 +14,7 @@ Hi, I'm Somesh Jampa, a passionate developer having experience in FrontEnd Web D
 - ⚙️ I use daily: `.java`, `.php`, `.js`, `.html`, `.css`, `.svg`
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **frontend development**
-- 📫 Reach me: [@someshjampa](https://www.linkedin.com/in/someshjampa/)
+- 📫 Reach me: [@someshjampa]()
 - ⚡️ Interests: Anime
 
 **Languages and Tools:** 
