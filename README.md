@@ -4,21 +4,25 @@
  </div>
 <br />
 
-Hi, I'm Somesh Jampa, a passionate developer having experience in FrontEnd Web Development and want to become a Full Stack Developer.
+Hi, I'm Somesh Jampa, a Java Developer. Love to design and building Full Stack applications.
 
 <img align="right" alt="GIF" src="https://github.com/somesh526/somesh526/blob/main/animation.gif?raw=true" width="400" height="320" />
 
 **BIO**
 
-- 👨🏽‍💻 I’m currently working on something cool :wink:
-- ⚙️ I use daily: `.java`, `.php`, `.js`, `.html`, `.css`, `.svg`
-- 🌱 Learning all about **Open Source**
-- 💬 Ping me about **frontend development**
+- 👨🏽‍💻 Every framework integrates with java is on my bucketlist, sooner or later will learn it :wink:
+- ⚙️ I use daily: `.java`, `.ts`, `.js`, `.html`, `.css`, `.svg`
+- 🌱 Learning all about **System Design**
+- 💬 Ping me about **Java Full stack development**
 - 📫 Reach me: [@someshjampa](https://www.linkedin.com/in/someshjampa/)
 - ⚡️ Interests: Anime
 
 **Languages and Tools:** 
 <p>
+<img src="https://img.shields.io/badge/Java-E34F26?logo=java&logoColor=white&style-the-badge" alt="Java"/>
+ 
+<imp src="https://img.shields.io/badge/SPRING-FFF?logo=spring&logoColor=green&style-the-badge" alt="Spring"/>
+ 
 <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style-the-badge" alt="html"  />
   
 <img src="https://img.shields.io/badge/CSS-ffcccc?logo=css3&logoColor=white&style-the-badge" alt="css"  />
@@ -26,8 +30,6 @@ Hi, I'm Somesh Jampa, a passionate developer having experience in FrontEnd Web D
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style-the-badge" alt="js"  />
 
 <img src="https://img.shields.io/badge/BootStrap-003b5f?logo=bootstrap&logoColor=white&style-the-badge" alt="boot"  />
-
-<img src="https://img.shields.io/badge/Java-E34F26?logo=java&logoColor=white&style-the-badge" alt="Java"/>
 
 <img src="https://img.shields.io/badge/php-8993be?logo=php&logoColor=white&style-the-badge" alt="php"/>
 
