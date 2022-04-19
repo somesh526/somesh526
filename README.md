@@ -10,9 +10,9 @@ Hi, I'm Somesh Jampa, a Java Developer. Love to design and build Full Stack appl
 
 **BIO**
 
-- 👨🏽‍💻 Learning all frameworks which integrate with Java :wink:
+- 🌱 Attitude >> Experience >> Education :wink:
 - ⚙️ I use daily: `.java`, `.ts`, `.js`, `.html`, `.css`, `.svg`
-- 🌱 Learning all about **System Design**
+- 👨🏽‍💻 Learning all frameworks which integrate with Java 
 - 💬 Ping me about **Java Full stack development**
 - 📫 Reach me: [@someshjampa](https://www.linkedin.com/in/someshjampa/)
 - ⚡️ Interests: Anime
