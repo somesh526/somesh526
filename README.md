@@ -4,7 +4,7 @@
  </div>
 <br />
 
-Hi, I'm Somesh Jampa, a Java Developer. Love to design and build Full Stack applications.
+Hi, I'm Somesh, a Java Developer. Love to design and build Full Stack applications.
 
 <img align="right" alt="GIF" src="https://github.com/somesh526/somesh526/blob/main/animation.gif?raw=true" width="400" height="320" />
 
@@ -14,7 +14,7 @@ Hi, I'm Somesh Jampa, a Java Developer. Love to design and build Full Stack appl
 - ⚙️ I use daily: `.java`, `.ts`, `.js`, `.html`, `.css`, `.svg`
 - 👨🏽‍💻 Learning all frameworks which integrate with Java 
 - 💬 Ping me about **Java Full stack development**
-- 📫 Reach me: [@someshjampa](https://www.linkedin.com/in/someshjampa/)
+- 📫 Reach me: [@somesh](https://www.linkedin.com/in/someshjampa/)
 - ⚡️ Interests: Anime
 
 **Technical Expertise:** 
